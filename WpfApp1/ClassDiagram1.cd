@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApp1.Algoritms">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABAAAAggAAAABAQAAQARAAiAAAAAAEAAIAAAI=</HashCode>
+      <FileName>Algoritms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.App" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.BFSSolver">
+    <Position X="3.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAgAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>BFSSolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.Container" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Container.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.Desk" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAEAAAADACAIIBAAAAgQACAgEAIQAAAACAAAAA=</HashCode>
+      <FileName>Desk.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.158" />
+  </Class>
+  <Class Name="WpfApp1.GlobalEventManager">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABAAAAAAAAAAAAAAAAIAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>GlobalEventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.IDSSolver">
+    <Position X="6.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAABAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>IDSSolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.LDFSSolver">
+    <Position X="1.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAgAAAIAAAQAAAAIAAAA=</HashCode>
+      <FileName>LDFSSolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.MainWindow" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfApp1.Solvable">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAAAAAIEAAAFIAAAAAAgAQAAAAIIQAAAAAAAAA=</HashCode>
+      <FileName>Solvable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp1.UtilsHandler">
+    <Position X="9.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAIABAAAAAgAAAAQAQAAgABAAgIBAIAAAAAAAAAI=</HashCode>
+      <FileName>UtilsHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WpfApp1.IMovable">
+    <Position X="10.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="WpfApp1.IUtils">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAABAAAAAAAAAAgQAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>IUtils.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cumfgo1KW1GgZ2+KjQmIoacmQlOerRkaaV5mba6VMByaRzxRjjk0e1t3SCJfYKFC78ypseQ1v8g0zZD6f9xlbA==",
+  "success": true,
+  "projectFilePath": "D:\\Курсач\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boris\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\boris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
